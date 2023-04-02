@@ -35,3 +35,6 @@
     </form>
 </body>
 </html>
+<?php
+    $veritabaniBaglantisi = null;
+?>

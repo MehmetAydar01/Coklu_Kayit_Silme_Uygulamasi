@@ -20,8 +20,6 @@
     exit;
     
 
-    
-
     /*
         2. Yol
         require_once "baglan.php";
@@ -40,4 +38,7 @@
     */
 
     
+?>
+<?php
+    $veritabaniBaglantisi = null;
 ?>
